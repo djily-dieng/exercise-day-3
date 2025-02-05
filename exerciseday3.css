@@ -1,0 +1,23 @@
+.immagini {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.sfondogiallo {
+  background-color: rgba(234, 248, 108, 0.719);
+  text-align: center;
+}
+
+.titolo1,
+#paragrafoimmagine {
+  text-align: center;
+}
+.sfondocontenuto {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 20px;
+}
+.titolo2 {
+  color: darkred;
+}
