@@ -21,3 +21,17 @@
 .titolo2 {
   color: darkred;
 }
+.header h1,
+h2,
+h3,
+h4,
+ul,
+#ultimop,
+#method {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.cliccabile {
+  display: inline;
+}
