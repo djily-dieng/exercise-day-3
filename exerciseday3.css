@@ -4,7 +4,8 @@
   margin-right: auto;
 }
 .sfondogiallo {
-  background-color: rgba(234, 248, 108, 0.719);
+  padding-bottom: 1px;
+  background-color: rgba(247, 224, 123, 0.589);
   text-align: center;
 }
 
@@ -26,12 +27,40 @@ h2,
 h3,
 h4,
 ul,
-#ultimop,
-#method {
+#ultimop {
   width: 50%;
   margin-left: auto;
   margin-right: auto;
 }
-.cliccabile {
-  display: inline;
+.paragrafo {
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+#ultimo {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#unico {
+  font-weight: bold;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.spz {
+  padding: 7px;
+}
+.ancor {
+  display: block;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.toglispz {
+  color: rgb(230, 96, 0);
+}
+.colorline {
+  border-color: rgb(170, 255, 224);
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
 }
